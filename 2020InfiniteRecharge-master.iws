@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99272709-c8a9-4fc4-9ea4-a3d857ee2e12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../2019Update" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019bunnybots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BunnyBots2019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Robo/frc_tabletop" beforeDir="false" afterPath="$PROJECT_DIR$/../Robo/frc_tabletop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/2018Again" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/2019Updated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2018-19+EoC+Assessment+Linking+Table.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/20181017_123033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17 (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-23 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-23 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/2019-09-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/20190904_102859.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/SPR_AdamsOlivia_400134.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Chem/chemnote6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/IROC2019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Aadms_SexualAggression.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_AlcoholResearch.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_AnnStory.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_BirthDefects.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_BodyImage.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_CardiovascularDiseaseRiskFactors.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_ChasingTheDragon.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_FadDiet.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_FamilyInfluences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_FoodChoiceCulture.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_FoodLabelComparison.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_GoalSetting.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_HowToCall911.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_ImmuneSystem.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_MentalHealthResources.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_Obstacles.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_PsychoactiveDrugs.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_ResourcesSexualAggression.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_SettingBoundaries.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_Sexual_Aggression.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_SocialMedia.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_SoftTissueInjury.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/Olivia_M_Adams_StoriesOfMentalHealth.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/thirsty.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/tumblr_o0rfpmYtzg1uc250go1_500.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/Online Health/unnamed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/balenaEtcher.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2018Remake/java.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019PersonalJunk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/4.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/5.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/5.0/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/5.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/2019Remake.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/2019Remake.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/2019Remake.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/build.gradle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/out/production/2019Remake/frc/team0000/robot/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/out/production/2019Remake/frc/team5115/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/out/production/2019Remake/frc/team5115/subsytems/sys_Drivetrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/robot/InputManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/statemachines/StateMachineBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/statemachines/mac_Drivetrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/main/java/frc/team5115/subsytems/sys_Drivetrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/2019Remake/src/test/java/TalonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/DeeepSpace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.9/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/EDWARD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/EDWARD.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/EDWARD.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/EDWARD_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/EDWARD_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/InputManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/classes/java/main/frc/team5115/robot/DriveTrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/classes/java/main/frc/team5115/robot/Elevator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/classes/java/main/frc/team5115/robot/Intake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/classes/java/main/frc/team5115/robot/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/libs/EDWARD.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/CTRE-phoenix-java-5.2.2.0-native.zip_d41437646b975bdde8f37c4940ca745e/libCTRE_PhoenixCCI.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/Pathfinder-JNI-1.8-athena.zip_807d16b0c0d813f29cfe44c8b8fac60e/libpathfinderjava.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/cscore-cpp-1.3.0-linuxathena.zip_5d3f92c07ea1bd9fe3d09c0df5c59501/linux/athena/shared/libcscore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/hal-2018.4.1-linuxathena.zip_ec5b4e6116b39724b13940cebe9e01a1/linux/athena/shared/libwpiHal.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/ntcore-cpp-4.1.0-linuxathena.zip_25c0a1cfddd66d5210163e2a58b2dd47/linux/athena/shared/libntcore.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_calib3d.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_core.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_features2d.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_flann.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_highgui.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_imgcodecs.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_imgproc.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_java320.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_ml.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_objdetect.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_photo.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_shape.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_stitching.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_superres.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_video.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_videoio.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_videostab.so.3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/wpilibj-jniShared-2018.4.1-linuxathena.jar_370c3da3fe8d702143083662173e3c44/linux/athena/shared/libwpilibJNI.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/expandedArchives/wpiutil-cpp-3.2.0-linuxathena.zip_b3c0854cbf80984db4dae519ac88ea3b/linux/athena/shared/libwpiutil.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/out/production/classes/frc/team5115/robot/InputManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/out/production/classes/frc/team5115/robot/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/out/production/classes/frc/team5115/robot/Subsystems/DriveTrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/out/production/classes/frc/team5115/robot/Subsystems/Elevator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/out/production/classes/frc/team5115/robot/Subsystems/Intake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/samezu_shark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/src/main/java/frc/team5115/robot/InputManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/src/main/java/frc/team5115/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/src/main/java/frc/team5115/robot/Subsystems/DriveTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/src/main/java/frc/team5115/robot/Subsystems/Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/EDWARD/src/main/java/frc/team5115/robot/Subsystems/Intake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/2018.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/2018.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/2019DeepSpace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/.wpilib/wpilib_preferences.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/DemoCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/DemoCode.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/DemoCode.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/DemoCode_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/DemoCode_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/classes/java/main/frc/team5115/robot/robot/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/classes/java/main/frc/team5115/robot/robot/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/classes/java/main/frc/team5115/robot/statemachines/ArmStateMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/classes/java/main/frc/team5115/robot/subsystems/Arm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/classes/java/main/frc/team5115/statemachines/StateMachineBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/libs/DemoCode.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/cci-5.12.0-windowsx86-64.zip_78194039b44467b04e9aed05589b0ea3/windows/x86-64/shared/CTRE_PhoenixCCI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/cscore-cpp-2019.4.1-windowsx86-64.zip_09f258a3cf9de731576d2b9c1fa05a88/windows/x86-64/shared/cscore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/cscore-cpp-2019.4.1-windowsx86-64.zip_09f258a3cf9de731576d2b9c1fa05a88/windows/x86-64/shared/cscorejni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/hal-cpp-2019.4.1-windowsx86-64.zip_5b2e3dfd03a356fef88885faa25af569/windows/x86-64/shared/wpiHal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/hal-cpp-2019.4.1-windowsx86-64.zip_5b2e3dfd03a356fef88885faa25af569/windows/x86-64/shared/wpiHaljni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-windowsx86-64.zip_de33c981a148fa8ffd8a7969372d470d/windows/x86-64/shared/ntcore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-windowsx86-64.zip_de33c981a148fa8ffd8a7969372d470d/windows/x86-64/shared/ntcorejni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_calib3d344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_core344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_features2d344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_flann344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_highgui344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_imgcodecs344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_imgproc344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_java344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_ml344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_objdetect344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_photo344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_shape344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_stitching344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_superres344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_video344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_videoio344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_videostab344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/expandedArchives/wpiutil-cpp-2019.4.1-windowsx86-64.zip_3517c4c77edd720a69d93fa7ac073fd1/windows/x86-64/shared/wpiutil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/CTRE_PhoenixCCI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/cscore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/cscorejni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/ntcore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/ntcorejni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_calib3d344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_core344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_features2d344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_flann344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_highgui344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_imgcodecs344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_imgproc344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_java344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_ml344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_objdetect344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_photo344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_shape344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_stitching344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_superres344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_video344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_videoio344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/opencv_videostab344.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/wpiHal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/wpiHaljni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/build/tmp/jniExtractDir/wpiutil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/src/main/java/frc/team5115/robot/robot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/src/main/java/frc/team5115/robot/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/src/main/java/frc/team5115/robot/statemachines/ArmStateMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/src/main/java/frc/team5115/robot/statemachines/StateMachineBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/src/main/java/frc/team5115/robot/subsystems/Arm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/vendordeps/Phoenix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/DemoCode/vendordeps/navx_frc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/jamesscodingactivity/jamesscodingactivity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/.wpilib/wpilib_preferences.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/purplemonster.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/purplemonster.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/purplemonster.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/purplemonster_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/purplemonster_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/src/main/java/frc/team5115/robot/robot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/src/main/java/frc/team5115/robot/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/src/main/java/frc/team5115/robot/subsystems/DriveTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/vendordeps/Phoenix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/purplemonster/vendordeps/navx_frc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/.wpilib/wpilib_preferences.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/savingpurplemonster.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/savingpurplemonster.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/savingpurplemonster.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/savingpurplemonster_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/savingpurplemonster_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/src/main/java/frc/team5115/robot/robot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/src/main/java/frc/team5115/robot/robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/src/main/java/frc/team5115/robot/statemachines/ArmStateMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/src/main/java/frc/team5115/robot/statemachines/StateMachineBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/deleted projects i can't look at/savingpurplemonster/src/main/java/frc/team5115/robot/subsystems/Arm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/python/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cHaOtIc eNeRGy/rookie training" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectId" id="1tMS7augpX0mlgiNd2hxhLisEh8" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99272709-c8a9-4fc4-9ea4-a3d857ee2e12" name="Default Changelist" comment="" />
+      <created>1622577303815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622577303815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/frc/team5115/Robot/RobotContainer.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
